@@ -1,5 +1,7 @@
 # automatic-tribble
 require login for one to acess a page
+
+
 Do you have a page that requires user details without them actually writing their details there?
 
 Or maybe a page that cant get into the wrong hands example a cpanel
